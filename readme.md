@@ -114,5 +114,3 @@ matplotlib==3.4.3
 If you find any bugs or have ideas for new features, feel free to open an issue or submit a pull request!
 
 ---
-
-This tool will make your workflow of generating and managing Python project dependencies much smoother! 😎
