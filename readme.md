@@ -1,7 +1,3 @@
-Here’s a **README.md** that explains the capabilities of your tool, including all the requested features like skipping `.dot` folders, handling broken files, and more.
-
----
-
 # Python & Jupyter Notebook Dependency Extractor
 
 This tool helps you generate a `requirements.txt` file by extracting all the **imported dependencies** from Python (`.py`) and Jupyter Notebook (`.ipynb`) files. It works by recursively searching for Python and notebook files in a given directory (or multiple files), extracting all used packages, and then resolving their versions from the environment.
